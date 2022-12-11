@@ -8,7 +8,7 @@ Public Class Conexion
     Public result As String
 
     Public Function Strconexion() As MySqlConnection
-        Return New MySqlConnection("server=localhost;user id=ugb;password=ugb2022;database=academica;port=3306")
+        Return New MySqlConnection("server=localhost;userid=ugb;password=ugb2022;database=academica;port=3306")
     End Function
 
     Public strcon As MySqlConnection = Strconexion()

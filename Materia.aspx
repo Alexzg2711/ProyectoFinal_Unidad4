@@ -1,3 +1,15 @@
-﻿<%@ Page Title="" Language="vb" AutoEventWireup="false" MasterPageFile="~/Site.Master" CodeBehind="Materia.aspx.vb" Inherits="ProyectoFinal_Unidad4.Materia1" %>
-<asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
+﻿<asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
+    <p>
+        <br />
+    </p>
+
+    <p>
+        <br />
+    </p>
+    <p class="text-center" style="font-size: large">
+        <strong>LISTADO DE </strong>M<span style="font-weight: bold">MATERIAS</span></p>
+    <p>
+    </p>
+    <p>
+    </p>
 </asp:Content>

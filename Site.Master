@@ -52,13 +52,10 @@
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
                         <li><a runat="server" href="~/">Inicio</a></li>
-                        <li><a runat="server" href="~/About">Acerca de</a></li>
-                        <li><a runat="server" href="~/Contact">Contacto</a></li>
-                        <li><a runat="server" href="~/About">Acerca de</a></li>
-                        <li><a runat="server" href="~/Contact">Contacto</a></li>
-                        <li><a runat="server" href="~/About">Acerca de</a></li>
-                        <li><a runat="server" href="~/Contact">Contacto</a></li>
-                    </ul>
+                        <li><a runat="server" href="~/Alumno">Alumno</a></li>
+                        <li><a runat="server" href="~/Docente">Docente</a></li>
+                        <li><a runat="server" href="~/Materia">Materia</a></li>
+                        <li><a runat="server" href="~/Usuario">Usuario</a></li>
                 </div>
             </div>
         </div>
